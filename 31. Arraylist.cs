@@ -55,8 +55,7 @@ namespace Hackerrank
 
         static int PedirValor()
         {
-            return Convert.ToInt32(Console.ReadLine());
-            
+            return Convert.ToInt32(Console.ReadLine());            
         }
     }
 }

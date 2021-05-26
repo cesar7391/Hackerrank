@@ -43,7 +43,7 @@ namespace Hackerrank
                 {
                     Console.WriteLine("NO ENCONTRADO");
                 }
-            } while (busqueda != "0");
+            } while (busqueda != "");
         }
 
         static int PedirValor()
